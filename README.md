@@ -1,3 +1,3 @@
 # MakeSmallerImage
 
-  Android Development / Java Tutorials - Lesson 17
+  Android Development / Java Tutorial - Lesson 17
