@@ -2,4 +2,4 @@
 
 Android Development / Java Tutorial - Lesson 17
 
-MakeSmallerImage Method (Java)
+Make Smaller Image Method (Java)
